@@ -20,6 +20,3 @@ function firstListItem() {
   $('ul#pic-list li:first-child')
 }
 
-function () {
-  $('')
-}
